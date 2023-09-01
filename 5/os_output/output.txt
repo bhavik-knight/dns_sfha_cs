@@ -1,0 +1,6 @@
+file: /home/bhavik/Dropbox/edu/dns/cyber/5/os.py
+file: /home/bhavik/Dropbox/edu/dns/cyber/5/out.log
+file: /home/bhavik/Dropbox/edu/dns/cyber/5/sys.py
+file: /home/bhavik/Dropbox/edu/dns/cyber/5/err.log
+dir: /home/bhavik/Dropbox/edu/dns/cyber/5/os_output
+dir: /home/bhavik/Dropbox/edu/dns/cyber/5/pluralsight_week5
